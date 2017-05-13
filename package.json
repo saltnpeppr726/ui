@@ -37,7 +37,7 @@
     "lodash.debounce": "^4.0.8",
     "lodash.findlast": "^4.6.0",
     "long": "^3.2.0",
-    "material-ui": "^0.17.0",
+    "material-ui": "^0.18.1",
     "postcss-browser-reporter": "^0.5.0",
     "postcss-cssnext": "^2.8.0",
     "postcss-import": "9.1.0",
